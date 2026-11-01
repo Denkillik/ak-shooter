@@ -1,0 +1,37 @@
+{
+  "className": "SpawnLocation",
+  "properties": {
+    "Size": [
+      6,
+      1,
+      6
+    ],
+    "CFrame": [
+      0,
+      0.5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.4,
+      0.62,
+      0.42
+    ],
+    "Material": "SmoothPlastic",
+    "Anchored": true,
+    "CanCollide": true,
+    "Neutral": true,
+    "Duration": 0,
+    "AllowTeamChangeOnTouch": false,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth"
+  }
+}

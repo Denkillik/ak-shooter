@@ -1,0 +1,52 @@
+{
+  "className": "Part",
+  "id": "ak_handle",
+  "properties": {
+    "Size": [
+      0.3,
+      0.9,
+      0.34
+    ],
+    "CFrame": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.13,
+      0.13,
+      0.14
+    ],
+    "Material": "SmoothPlastic",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": false,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  },
+  "children": [
+    {
+      "name": "Muzzle",
+      "className": "Attachment",
+      "properties": {
+        "Position": [
+          0,
+          0.7,
+          -2.62
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "className": "Part",
+  "id": "ak_barrel",
+  "attributes": {
+    "Visual": true
+  },
+  "properties": {
+    "Size": [
+      0.15,
+      0.15,
+      1.7
+    ],
+    "CFrame": [
+      0,
+      0.7,
+      -1.55,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.12,
+      0.12,
+      0.13
+    ],
+    "Material": "Metal",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  }
+}

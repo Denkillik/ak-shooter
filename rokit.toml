@@ -1,0 +1,5 @@
+# Rokit toolchain pin. Install Rokit, then run `rokit install` in this folder.
+# https://github.com/rojo-rbx/rokit
+
+[tools]
+rojo = "rojo-rbx/rojo@7.7.1"

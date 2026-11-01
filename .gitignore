@@ -1,0 +1,13 @@
+# Built places. The source of truth is default.project.json and src/.
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo
+sourcemap.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

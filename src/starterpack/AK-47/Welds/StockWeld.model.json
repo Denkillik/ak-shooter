@@ -1,0 +1,37 @@
+{
+  "className": "Weld",
+  "attributes": {
+    "Rojo_Target_Part0": "ak_handle",
+    "Rojo_Target_Part1": "ak_stock"
+  },
+  "properties": {
+    "C0": [
+      0,
+      0.58,
+      1.05,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "C1": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  }
+}

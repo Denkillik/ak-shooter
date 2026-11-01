@@ -1,0 +1,42 @@
+{
+  "className": "Part",
+  "id": "ak_handguard",
+  "attributes": {
+    "Visual": true
+  },
+  "properties": {
+    "Size": [
+      0.46,
+      0.4,
+      0.72
+    ],
+    "CFrame": [
+      0,
+      0.58,
+      -0.95,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.45,
+      0.27,
+      0.14
+    ],
+    "Material": "Wood",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "className": "Part",
+  "id": "ak_stock",
+  "attributes": {
+    "Visual": true
+  },
+  "properties": {
+    "Size": [
+      0.3,
+      0.36,
+      1.05
+    ],
+    "CFrame": [
+      0,
+      0.58,
+      1.05,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.4,
+      0.24,
+      0.12
+    ],
+    "Material": "Wood",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  }
+}
