@@ -1,0 +1,14 @@
+{
+  "className": "Tool",
+  "properties": {
+    "CanBeDropped": false,
+    "RequiresHandle": true,
+    "ToolTip": "AK-47",
+    "Grip": [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  },
+  "attributes": {
+    "GunId": "AK47",
+    "Ammo": 30,
+    "Reloading": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "className": "Part",
+  "id": "ak_gas",
+  "attributes": {
+    "Visual": true
+  },
+  "properties": {
+    "Size": [
+      0.1,
+      0.1,
+      0.85
+    ],
+    "CFrame": [
+      0,
+      0.88,
+      -1.15,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.1,
+      0.1,
+      0.11
+    ],
+    "Material": "Metal",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "className": "Part",
+  "id": "ak_rear",
+  "attributes": {
+    "Visual": true
+  },
+  "properties": {
+    "Size": [
+      0.07,
+      0.16,
+      0.08
+    ],
+    "CFrame": [
+      0,
+      0.96,
+      0.35,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Color": [
+      0.15,
+      0.15,
+      0.16
+    ],
+    "Material": "SmoothPlastic",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth",
+    "CastShadow": true
+  }
+}
